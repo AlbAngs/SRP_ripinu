@@ -2,8 +2,8 @@
     RewriteEngine On 
     RewriteCond %{REQUEST_FILENAME} !-f 
     RewriteCond %{REQUEST_FILENAME} !-d 
-    RewriteRule ^(.*)$ /SRP/index.php/$1 [L] 
+    RewriteRule ^(.*)$ /SRP_ripinu/index.php/$1 [L] 
 </IfModule>
 <IfModule !mod_rewrite.c>
-    ErrorDocument 404 /SRP/index.php 
+    ErrorDocument 404 /SRP_ripinu/index.php 
 </IfModule>

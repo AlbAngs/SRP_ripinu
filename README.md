@@ -1,2 +1,2 @@
-# SRP_ripinu
-Repositorio de almacenamiento de proyectos.
+# SRP
+Desarrollo de el sistema de repositorio de proyectos

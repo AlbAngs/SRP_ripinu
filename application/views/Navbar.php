@@ -10,7 +10,7 @@
       <span class="icon-user-1"></span><font>Cuenta</font>
     </a>
     <div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdown">
-      <a class="dropdown-item" href="<?php echo base_url();?>login/loginUser"><font>Iniciar Sesión</font></a>
+      <a class="dropdown-item" href="<?php echo base_url();?>loginController/loginUser"><font>Iniciar Sesión</font></a>
       <a class="dropdown-item" href="<?php echo base_url();?>profesor_controller/registroUser"><font>Registrarse</font></a>
     
     </div>
